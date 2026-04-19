@@ -1,8 +1,8 @@
 site_name: The Path (AI-Pi)
 site_description: Edge AI-powered turn-based combat game running on Raspberry Pi hardware.
-site_author: MaterDev
-site_url: https://materdev.github.io/thepath-ai_pi/
-repo_url: https://github.com/MaterDev/thepath-ai_pi
+site_author: Primatif
+site_url: https://primatif.github.io/thepath-ai_pi/
+repo_url: https://github.com/Primatif/thepath-ai_pi
 theme:
   name: material
   icon:

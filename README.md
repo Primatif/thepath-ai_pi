@@ -4,7 +4,7 @@ Edge AI-powered turn-based combat game running on Raspberry Pi hardware.
 
 ![The Path (AI-Pi)](docs/images/cover.png)
 
-📚 [View Documentation](https://materdev.github.io/thepath-ai_pi/)
+📚 [View Documentation](https://primatif.github.io/thepath-ai_pi/)
 
 ## Project Origins
 
