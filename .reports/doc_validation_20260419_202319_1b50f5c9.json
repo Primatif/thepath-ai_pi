@@ -1,0 +1,422 @@
+{
+  "id": "1b50f5c9",
+  "timestamp": "2026-04-19T20:23:19.076689",
+  "summary": {
+    "total_errors": 4,
+    "total_warnings": 47
+  },
+  "issues": [
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "technical/dependencies.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "technical/setup/docker.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "technical/ai-system/difficulty-system.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "technical/health/index.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "technical/health/server.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "technical/health/client.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "technical/health/ai.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "technical/data-schemas/ai-models.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "technical/data-schemas/replay-system.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "technical/client/ui-specification.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "technical/hardware/ai-hat-plus.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "technical/hardware/raspberry-pi-5.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/social/linkedin/index.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/social/linkedin/2025-01-21.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/social/linkedin/2025-01-07.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/social/linkedin/2025-01-03.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/social/linkedin/2024-12-27.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/social/linkedin/2025-01-19.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/social/linkedin/2025-01-17.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/social/linkedin/2025-01-14.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/social/linkedin/2025-01-08.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/implementation/server/architecture.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/implementation/setup/project-setup.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/implementation/ai/agenic-context-index.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/implementation/ai/architecture.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/implementation/client/architecture.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/phase1/3-communication.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/phase1/index.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/phase1/4-ai-integration.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/phase1/2-game-state.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/phase1/1-project-setup.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/phase1/5-turn-system.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/logs/index.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/logs/2025-01-21.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/logs/2025-01-15.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/logs/2025-01-19.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/logs/2025-01-09.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/logs/2025-01-17.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/logs/2025-03-18.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/logs/2025-01-13.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "meta/logs/2025-01-08.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "scripts/doc_validation/README.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "world_building/balance_and_meta.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "world_building/foundations.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "overview/project-scope.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "overview/research-objectives.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Missing metadata fields: description, title",
+      "file": "overview/system-architecture.md",
+      "line": null,
+      "severity": "warning",
+      "context": null,
+      "checker": "health"
+    },
+    {
+      "message": "Broken reference to 'technical/game-mechanics/status-effects'",
+      "file": "technical/data-schemas/game-state.md",
+      "line": null,
+      "severity": "error",
+      "context": null,
+      "checker": "references"
+    },
+    {
+      "message": "Broken reference to 'technical/game-mechanics/attack-types'",
+      "file": "technical/data-schemas/game-state.md",
+      "line": null,
+      "severity": "error",
+      "context": null,
+      "checker": "references"
+    },
+    {
+      "message": "Broken reference to 'technical/game-mechanics/battle-conditions'",
+      "file": "technical/data-schemas/game-state.md",
+      "line": null,
+      "severity": "error",
+      "context": null,
+      "checker": "references"
+    },
+    {
+      "message": "Broken reference to 'technical/game-mechanics/targeting'",
+      "file": "technical/data-schemas/game-state.md",
+      "line": null,
+      "severity": "error",
+      "context": null,
+      "checker": "references"
+    }
+  ],
+  "stats": {
+    "total_references": 41,
+    "total_documents": 63
+  }
+}
